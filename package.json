@@ -10,6 +10,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "demo-backend": "file:",
     "express": "^4.21.2"
   }
 }
